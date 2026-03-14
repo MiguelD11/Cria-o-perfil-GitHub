@@ -1,68 +1,79 @@
-# 👋 Olá! Eu sou o Miguel
+# 👋 Olá, eu sou o Miguel!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – Fatec Araras
-💻 Interessado em desenvolvimento Front-End e interfaces web
-📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades práticas em desenvolvimento web.
+💻 Focado em desenvolvimento Front-End e interfaces web
+📚 Atualmente estudando HTML, Java, Python e SQL
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de ADS apaixonado por tecnologia e desenvolvimento web.
-Tenho grande interesse em criar interfaces modernas, funcionais e bem estruturadas, focando na experiência do usuário e na organização do código.
+Sou estudante de ADS com interesse em desenvolvimento web, principalmente na área de Front-End, criando interfaces modernas, organizadas e funcionais.
 
-Atualmente estou explorando mais conceitos de desenvolvimento front-end, trabalhando com HTML, estilização de páginas e integração com lógica de programação.
+Tenho interesse em entender como os sistemas funcionam por trás das aplicações web, mas meu foco principal é desenvolver interfaces e melhorar a experiência do usuário.
 
-Gosto de aprender construindo pequenos projetos e experimentos, pois acredito que a prática é a melhor forma de evoluir como desenvolvedor.
+Gosto de aprender na prática, criando pequenos projetos e experimentos para evoluir minhas habilidades de programação.
 
 ---
 
 # 🛠️ Tecnologias que utilizo
 
-### 💻 Desenvolvimento
+## 💻 Linguagens e desenvolvimento
 
-- HTML
-- CSS
-- Java
-- Python
-- SQL
-
-# 🗄️ Banco de dados
-
-- MySQL
-- SQLite
-
-## ⚙️ Ferramentas
-
-- Git
-- GitHub
-- VS Code
-- Bootstrap
+"HTML" (https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS" (https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📚 Atualmente aprendendo
+### 🗄️ Banco de dados
 
-- Estrutura e boas práticas de desenvolvimento front-end
-- Programação Orientada a Objetos
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+# ⚙️ Ferramentas
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+"VSCode" (https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+# 📚 Atualmente aprendendo
+
+- Programação Orientada a Objetos (POO)
+- Desenvolvimento Front-End
 - Java
 - SQL
 
 ---
 
-# 🎯 Objetivos
+## 🎯 Objetivos
 
-Algumas tecnologias e áreas que pretendo estudar nos próximos meses:
+Algumas áreas que pretendo estudar e evoluir:
 
 - Aprender JavaScript moderno
-- Melhorar minhas habilidades em UI e design de interfaces
+- Melhorar habilidades em interfaces e design web
 - Criar projetos web mais completos
-- Explorar frameworks front-end
+- Explorar frameworks de front-end
 
 ---
 
-## 📬 Contato
+# 📬 Contato
 
-📎 LinkedIn: (Em desenvolvimento)
-
-📧 Email: migueldinizmsm@gmail.com
+- LinkedIn: (Em desenvolvimento
+  
+- Email: migueldinizmsm@gmail.com
