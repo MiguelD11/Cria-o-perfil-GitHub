@@ -64,4 +64,5 @@ Algumas tecnologias e áreas que pretendo estudar nos próximos meses:
 ## 📬 Contato
 
 📎 LinkedIn: (Em desenvolvimento)
+
 📧 Email: migueldinizmsm@gmail.com
